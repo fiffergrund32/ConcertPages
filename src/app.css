@@ -1,0 +1,78 @@
+body {
+  font-family: sans-serif;
+  padding: 1em;
+}
+
+.ais-ClearRefinements {
+/*  margin: 1em 0; */
+}
+
+.ais-ClearRefinements-button {
+	background-image: linear-gradient(#6f6f6f, #8f8f8f);
+}
+
+.ais-SearchBox {
+/*  margin: 1em 0; */
+}
+
+.ais-Pagination {
+  margin-top: 1em;
+}
+
+.ais-Pagination-item--selected .ais-Pagination-link {
+    color: #fff;
+    background-color: #4f4f4f;
+    border-color: #4f4f4f;
+}
+
+.left-panel {
+  float: left;
+  width: 425px;
+}
+
+.right-panel {
+  margin-left: 430px;
+}
+
+.ais-InstantSearch {
+  max-width: 1200px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.ais-RefinementList {
+	color: #f0f0f0;
+}
+.ais-RefinementList-showMore {
+    background-color: #0096db;
+	background-image: linear-gradient(#6f6f6f, #8f8f8f);
+}
+.ais-Hits {
+	color: #ffffff;
+}
+
+.ais-Hits-item {
+  margin-bottom: .5em;
+  width: calc(50% - 1rem);
+  background-color: #4f4f4f;
+  background-image: linear-gradient(#6f6f6f, #8f8f8f);
+}
+
+.ais-Hits-item img {
+  margins: .5em;
+}
+
+.ais-HitsPerPage-select {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.hit-name {
+  margin-bottom: 0.5em;
+}
+
+.hit-description {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 0.5em;
+}
